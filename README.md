@@ -4,10 +4,10 @@ This filter bank, created using LTspice is used for the separation of an audio s
 
 # Features
 
-Multi-band audio signal separation
+* Multi-band audio signal separation using different active filters 
 
-Sallen-Key low-pass, band-pass, and high-pass filters
+* Implementation of Sallen-Key low-pass, band-pass, and high-pass filters
 
-Twin-T notch filter for noise rejection
+* Integration of a Twin-T notch filter for noise rejection
 
-AC sweep analysis in LTspice
+* Frequency response analysis using AC sweep analysis in LTspice
