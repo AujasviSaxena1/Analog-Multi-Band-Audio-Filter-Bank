@@ -10,4 +10,4 @@ This filter bank, created using LTspice is used for the separation of an audio s
 
 * Integration of a Twin-T notch filter for noise rejection
 
-* Frequency response analysis using AC sweep analysis in LTspice
+* Frequency response analysis using AC sweep analysis in LTspice.
